@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  padding: 0;
+    background-color: grey;
+    overflow: hidden;
+  }  
+
+  .rectangulo {
+    width: 1500px;
+    height: 150px;
+    background-color: black;
+    }
+  .linea {
+    width: 1500px;
+    height: 30px;
+    background-color: crimson;
+  }
+
+  .circle li {
+    margin-bottom: 10px; }
+  
